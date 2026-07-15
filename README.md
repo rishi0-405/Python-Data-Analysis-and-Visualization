@@ -55,7 +55,7 @@ pip install pandas matplotlib seaborn requests
 ### 3. Alpha Vantage Configuration
 To run the stock market script, request a free token from [Alpha Vantage Support](https://alphavantage.co) and insert it into your local environment:
 ```python
-API_KEY = "YOUR_ALPHA_VANTAGE_KEY"
+API_KEY = "ALPHA_VANTAGE_KEY"
 ```
 
 ### 4. Execution
